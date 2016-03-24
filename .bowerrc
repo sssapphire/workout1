@@ -1,0 +1,4 @@
+{
+    "proxy": "http://user:userpass@10.87.1.223:9876",
+    "https-proxy": "http://user:userpass@10.87.1.223:9876"
+}
